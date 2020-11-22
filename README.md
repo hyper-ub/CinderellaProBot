@@ -21,7 +21,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 
 ### Configuration
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kushal-modi/CinderellaProBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Roxy-Rose/CinderellaProBot)
 
 There are two possible ways of configuring your bot: a config.py file, or ENV variables.
 
